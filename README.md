@@ -2,5 +2,6 @@
 
 ### 기술스택
 Flutter  
-Supabase  
+DrizzleORM    
+Supabase    
 Shorebird  
